@@ -1,0 +1,12 @@
+import random
+import math
+from IPython.display import clear_output, display
+from IPython.display import HTML as html
+import time
+import io
+import matplotlib.pyplot as plt
+import matplotlib.patches
+from calysto.graphics import *
+import threading
+
+%matplotlib inline
